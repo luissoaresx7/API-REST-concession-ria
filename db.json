@@ -1,0 +1,81 @@
+{
+  "semi-novos": [
+    {
+      "id": 1,
+      "marca":"Ford",
+      "modelo":"fusion",
+      "ano":"2010",
+      "preço":"R$29.000",
+      "cor":"Branco"
+    },
+    {
+      "id": 2,
+      "marca":"Renault",
+      "modelo":"Sandero",
+      "ano":"2015",
+      "preço":"R$40.000",
+      "cor":"Prata"
+      
+    },
+    {
+      "id": 3,
+      "marca":"Nissan",
+      "modelo":"S15",
+      "ano":"2002",
+      "preço":"R18.000",
+      "cor":"Azul"
+    },
+    {
+      "id":4,
+      "marca":"volkswagen",
+      "modelo":"santana",
+      "ano":"2001",
+      "preço":"R18.000",
+      "cor":"Amarelo",
+      "carburador":"Sim"
+      
+      
+    },
+    {
+      "id": 3,
+      "marca":"volkswagen",
+      "modelo":"Santanna",
+      "ano":"2002",
+      "preço":"R20.000",
+      "carburador":"Não tem carburador!"
+    }
+  ],
+  "novos": [
+    {
+      "id": 1,
+      "marca":"Ford",
+      "modelo":"F-150",
+      "ano":"2023",
+      "preço":"R$150.000 R$ 179.210,00",
+      "cor":"Preto"
+    },
+    {
+      "id": 1,
+      "marca":"Ford",
+      "modelo":"F-150",
+      "ano":"2023",
+      "preço":"R$179.210",
+      "cor":"Preto"
+    }
+  ],
+  "alugel": [
+    {
+      "id": 1,
+      "marca":"Hyundai",
+      "modelo":"HB20",
+      "ano":"2010",
+      "preço":"R$124/dia"
+    },
+    {
+      "id": 1,
+      "marca":"Renault",
+      "modelo":"Logan",
+      "ano":"2014",
+      "preço":"R$140/dia"
+    }
+}
