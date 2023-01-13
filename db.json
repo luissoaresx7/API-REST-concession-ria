@@ -1,38 +1,41 @@
 {
-  "semi-novos": [
+  "Sedan": [
     {
       "id": 1,
-      "marca":"Ford",
-      "modelo":"fusion",
-      "ano":"2010",
-      "preço":"R$29.000",
-      "cor":"Branco"
+      "marca":"Mercedes",
+      "modelo":"C180 Exclusive 1.6",
+      "ano":"2020",
+      "preço":"R$223.160",
+      "km/rodados":"34.505 KM",
+      "cor":"Cinza"
     },
     {
       "id": 2,
-      "marca":"Renault",
-      "modelo":"Sandero",
-      "ano":"2015",
-      "preço":"R$40.000",
-      "cor":"Prata"
+      "marca":"Fiat",
+      "modelo":"Gran Siena",
+      "ano":"2021",
+      "preço":"R64.880",
+      "cor":"Vermelho"
       
     },
     {
       "id": 3,
-      "marca":"Nissan",
-      "modelo":"S15",
-      "ano":"2002",
-      "preço":"R18.000",
-      "cor":"Azul"
+      "marca":"Bmw",
+      "modelo":"320i 2.0",
+      "ano":"2022",
+      "preço":"R$286.380",
+      "cor":"Preto"
     },
     {
       "id":4,
       "marca":"volkswagen",
-      "modelo":"santana",
-      "ano":"2001",
-      "preço":"R18.000",
-      "cor":"Amarelo",
-      "carburador":"Sim" 
+      "modelo":"Voyage 1.6",
+      "ano":"2021",
+      "preço":"R$85.530",
+      "cor":"Prata",
+      "carburador":"Sim"
+      
+      
     },
     {
       "id":5,
@@ -43,13 +46,14 @@
       "carburador":"Não tem carburador!"
     }
   ],
-  "novos": [
+  "Hatch": [
     {
       "id": 1,
-      "marca":"Ford",
-      "modelo":"F-150",
-      "ano":"2023",
-      "preço":"R$150.000 R$ 179.210,00",
+      "marca":"Chevrolet",
+      "modelo":"Bolt Ev Premier 66kw Elétrico ",
+      "Kms/rodados":"3.803Km",
+      "ano":"2020",
+      "preço":"R$241.830",
       "cor":"Preto"
     },
     {
@@ -61,13 +65,14 @@
       "cor":"Preto"
     }
   ],
-  "alugel": [
+  "SUV": [
     {
       "id": 1,
-      "marca":"Hyundai",
-      "modelo":"HB20",
-      "ano":"2010",
-      "preço":"R$124/dia"
+      "marca":"Jeep",
+      "modelo":"Renegade Longitude 1.8",
+      "ano":"2021",
+      "Kms/rodados":"37.014 KM",
+      "preço":"R$ 97.130"
     },
     {
       "id": 2,
