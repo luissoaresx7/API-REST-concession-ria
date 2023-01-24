@@ -6,7 +6,7 @@
       "modelo":"C180 Exclusive 1.6",
       "ano":"2020",
       "preço":"R$223.160",
-      "km":"34.505 KM",
+      "km":"34.505 ",
       "cor":"Cinza"
     },
     {
@@ -15,7 +15,7 @@
       "modelo":"Gran Siena",
       "ano":"2021",
       "preço":"R64.880",
-      "km":"22.505 KM",
+      "km":"22.505 ",
       "cor":"Vermelho"
       
     },
@@ -25,7 +25,7 @@
       "modelo":"320i 2.0",
       "ano":"2022",
       "preço":"R$286.380",
-      "km":"25.241 KM",
+      "km":"25.241 ",
       "cor":"Preto"
     },
     {
@@ -35,7 +35,7 @@
       "ano":"2021",
       "preço":"R$85.530",
       "cor":"Prata",
-      "km":"14.342 KM"
+      "km":"14.342 "
       
       
       
@@ -45,8 +45,8 @@
       "marca":"volkswagen",
       "modelo":"Santanna",
       "ano":"2002",
-      "preço":"R20.000",
-      "km":"40.652 KM"
+      "preço":"R$20.000",
+      "km":"40.652 "
 
   
     },
@@ -55,8 +55,8 @@
       "marca":"Renault",
       "modelo":"Logan",
       "ano":"2014",
-      "preço":"R$140/dia",
-      "Kms/rodados":"40.284 KM",
+      "preço":"R$31.425",
+      "Km":"40.284 ",
       "cor":"Prata"
 
     }
@@ -68,7 +68,7 @@
       "modelo":"Bolt Ev Premier 66kw Elétrico ",
       "ano":"2020",
       "preço":"R$241.830",
-      "Km":"3.803Km",
+      "Km":"3.803",
       "cor":"Preto"
     },
 
@@ -78,7 +78,7 @@
       "modelo":"hb20 Comfort Plus 1.6",
       "ano":"2019",
       "preço":"R$ 70.400",
-      "Km":"50.426 KM",
+      "Km":"50.426 ",
       "cor":"branco"
     }
     
@@ -90,7 +90,7 @@
       "marca":"Jeep",
       "modelo":"Renegade Longitude 1.8",
       "ano":"2021",
-      "Kms/rodados":"37.014 KM",
+      "Km":"37.014 ",
       "preço":"R$ 97.130"
     },
 
@@ -100,7 +100,7 @@
       "modelo":"F-150",
       "ano":"2023",
       "preço":"R$179.210",
-      "Km":"1.453Km",
+      "Km":"1.453",
       "cor":"Preto"
     }
   ]
