@@ -47,8 +47,6 @@
       "ano":"2002",
       "preço":"20.000",
       "km":"40.652 "
-
-  
     },
     {
       "id": 6,
@@ -56,7 +54,7 @@
       "modelo":"Logan",
       "ano":"2014",
       "preço":"31.425",
-      "Km":"40.284 ",
+      "km":"40.284",
       "cor":"Prata"
 
     }
@@ -68,7 +66,7 @@
       "modelo":"Bolt Ev Premier 66kw Elétrico ",
       "ano":"2020",
       "preço":"241.830",
-      "Km":"3.803",
+      "km":"3.803",
       "cor":"Preto"
     },
 
@@ -78,7 +76,7 @@
       "modelo":"hb20 Comfort Plus 1.6",
       "ano":"2019",
       "preço":"70.400",
-      "Km":"50.426 ",
+      "km":"50.426 ",
       "cor":"branco"
     }
     
@@ -90,7 +88,7 @@
       "marca":"Jeep",
       "modelo":"Renegade Longitude 1.8",
       "ano":"2021",
-      "Km":"37.014 ",
+      "km":"37.014 ",
       "preço":"97.130"
     },
 
@@ -100,7 +98,7 @@
       "modelo":"F-150",
       "ano":"2023",
       "preço":"179.210",
-      "Km":"1.453",
+      "km":"1.453",
       "cor":"Preto"
     }
   ]
