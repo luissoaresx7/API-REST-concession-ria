@@ -7,27 +7,33 @@
       "ano":"2016",
       "preço":"223.160",
       "km":"34.505 ",
-      "cor":"Cinza"
+      "cor":"Cinza",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/esedan.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/esedanCosta.jpg"
+
     },
     {
       "id": 2,
       "marca":"Fiat",
-      "modelo":"Gran Siena",
-      "ano":"2021",
-      "preço":"64.880",
-      "km":"22.505 ",
-      "cor":"Vermelho",
-      "img":"./assets/voyage.jpg"
+      "modelo":" Marea 2002",
+      "ano":"2002",
+      "preço":"5.880",
+      "km":"82.505 ",
+      "cor":"Branco",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/marea.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/mareaCosta.jpg"
       
     },
     {
       "id": 3,
-      "marca":"Bmw",
-      "modelo":"320i 2.0",
-      "ano":"2022",
-      "preço":"286.380",
-      "km":"25.241 ",
-      "cor":"Preto"
+      "marca":"Chevrolet ",
+      "modelo":"Cobalt 2014",
+      "ano":"2014",
+      "preço":"34.543",
+      "km":"55.241 ",
+      "cor":"Preto",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/cobalt.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/cobaltCosta.jpg"
     },
     {
       "id":4,
@@ -37,11 +43,8 @@
       "preço":"85.530",
       "cor":"Prata",
       "km":"14.342 ",
-      "img":"https://concessionaria.onrender.com/Sedan/assets/voyageCosta.jpg",
-      "img2":"./assets/voyageCosta.jpg"
-      
-      
-      
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/voyage.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/voyageCosta.jpg"
     },
     {
       "id":5,
@@ -49,7 +52,10 @@
       "modelo":"Santanna",
       "ano":"2002",
       "preço":"20.000",
-      "km":"40.652 "
+      "cor":"Vermelho",
+      "km":"40.652 ",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/santana.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/sananaCosta.jpg"
     },
     {
       "id": 6,
@@ -59,7 +65,8 @@
       "preço":"31.425",
       "km":"40.284",
       "cor":"Marrom",
-      "img":"./assets/logan.jpg"
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/logan.jpg", 
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/loganCosta.jpg"
 
     }
   ],
@@ -71,19 +78,22 @@
       "ano":"2020",
       "preço":"241.830",
       "km":"3.803",
-      "cor":"Preto"
+      "cor":"Amarelo",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/bolt.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/boltCosta.jpg"
+
     },
 
     {
       "id": 2,
       "marca":"hyndai",
       "modelo":"hb20 Comfort Plus 1.6",
-      "ano":"2019",
+      "ano":"2015",
       "preço":"70.400",
       "km":"50.426 ",
       "cor":"Azul",
       "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/hb20.jpg",
-      "img2":"./assets/hb20Costa.jpg"
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/hb20Costa.jpg"
     }
     
     
@@ -93,20 +103,24 @@
       "id": 1,
       "marca":"Jeep",
       "modelo":"Renegade Longitude 1.8",
-      "ano":"2021",
+      "ano":"2014",
       "km":"37.014 ",
       "preço":"97.130",
-      "cor":"Vermelho"
+      "cor":"Vermelho",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/renegade.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/renegadeCosta.jpg"
     },
 
     {
       "id": 2,
-      "marca":"Ford",
-      "modelo":"F-150",
-      "ano":"2023",
-      "preço":"179.210",
-      "km":"1.453",
-      "cor":"Preto"
+      "marca":"Chevrolet ",
+      "modelo":"Blazer",
+      "ano":"2011",
+      "preço":"55.210",
+      "km":"88.453",
+      "cor":"Branco",
+      "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/blazer.jpg",
+      "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/blazerCosta.jpg"
     }
   ]
 }
