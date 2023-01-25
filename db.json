@@ -37,7 +37,7 @@
       "preço":"85.530",
       "cor":"Prata",
       "km":"14.342 ",
-      "img":"./assets/voyage.jpg",
+      "img":"https://concessionaria.onrender.com/Sedan/assets/voyageCosta.jpg",
       "img2":"./assets/voyageCosta.jpg"
       
       
@@ -58,7 +58,8 @@
       "ano":"2014",
       "preço":"31.425",
       "km":"40.284",
-      "cor":"Prata"
+      "cor":"Marrom",
+      "img":"./assets/logan.jpg"
 
     }
   ],
@@ -82,7 +83,7 @@
       "km":"50.426 ",
       "cor":"Azul",
       "img":"./assets/hb20.jpg",
-      "img":"./assets/hb20Costa.jpg"
+      "img2":"./assets/hb20Costa.jpg"
     }
     
     
