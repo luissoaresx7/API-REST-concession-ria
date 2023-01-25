@@ -4,8 +4,8 @@ Aplicação de API de consessionária criado com intuito educativo própio
 
 contém 3 rotas
 
-/novos
+/Sedan
 
-/semi-novos
+/hatch
 
-/aluguel
+/SUV
