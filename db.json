@@ -3,8 +3,8 @@
     {
       "id": 1,
       "marca":"Mercedes",
-      "modelo":"C180 Exclusive 1.6",
-      "ano":"2020",
+      "modelo":"Classe E sedan Exclusive line",
+      "ano":"2016",
       "preço":"223.160",
       "km":"34.505 ",
       "cor":"Cinza"
@@ -82,7 +82,7 @@
       "preço":"70.400",
       "km":"50.426 ",
       "cor":"Azul",
-      "img":"./assets/hb20.jpg",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/hb20.jpg",
       "img2":"./assets/hb20Costa.jpg"
     }
     
