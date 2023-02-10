@@ -1,6 +1,6 @@
  # API concessionária
 
-Aplicação de API de consessionária criado com intuito educativo própio
+Aplicação de API de consessionária criado com intuito educativo Acadêmico
 
 contém 3 rotas
 
