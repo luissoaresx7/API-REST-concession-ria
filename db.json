@@ -15,7 +15,7 @@
     {
       "id": 2,
       "marca":"Fiat",
-      "modelo":" Marea 2002",
+      "modelo":"Marea 2002",
       "ano":"2002",
       "preço":"5.880",
       "km":"82.505 ",
@@ -86,7 +86,7 @@
 
     {
       "id": 2,
-      "marca":"hyndai",
+      "marca":"Hyundai",
       "modelo":"hb20 Comfort Plus 1.6",
       "ano":"2015",
       "preço":"70.400",
