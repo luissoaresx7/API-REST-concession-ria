@@ -67,7 +67,47 @@
       "cor":"Marrom",
       "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/logan.jpg", 
       "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/loganCosta.jpg"
-
+    },
+    
+    {
+      "id": 7,
+      "marca":"Nissan",
+      "modelo":"Versa Sense",
+      "ano":"2015",
+      "preço":"59900",
+      "km":"69221 ",
+      "cor":"Cinza",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/versa.jpg?raw=true"
+    },
+    {
+      "id": 8,
+      "marca":"Honda",
+      "modelo":"City",
+      "ano":"2016",
+      "preço":"58456",
+      "km":"69221 ",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/city.jpg?raw=true"
+    },
+    {
+      "id": 9,
+      "marca":"Chevrolet",
+      "modelo":"Onix",
+      "ano":"2022",
+      "preço":"93470",
+      "km":"21145 ",
+      "cor":"Preto",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/onix.jpg?raw=true"
+    },
+    {
+      "id": 10,
+      "marca":"Audi",
+      "modelo":"A3",
+      "ano":"2018",
+      "preço":"89990",
+      "km":"44500",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/A3.jpg?raw=true"
     }
   ],
   "Hatch": [
@@ -94,9 +134,89 @@
       "cor":"Azul",
       "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/hb20.jpg",
       "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/hb20Costa.jpg"
+    },
+    
+    {
+      "id": 3,
+      "marca":"Citroen",
+      "modelo":"C4 Cactus",
+      "ano":"2018",
+      "preço":"62400",
+      "km":"54426 ",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/C4.jpg?raw=true"
+    },
+    
+    {
+      "id": 4,
+      "marca":"Chevrolet",
+      "modelo":"Onix",
+      "ano":"2019",
+      "preço":"53970",
+      "km":"41661 ",
+      "cor":"Branco",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/onixHacth.jpg?raw=true"
+    },
+    {
+      "id": 5,
+      "marca":"Fiat",
+      "modelo":"Mobi",
+      "ano":"2016",
+      "preço":"45000",
+      "km":"100000",
+      "cor":"Vermelho",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/mobi.jpg?raw=true"
+    },
+    {
+      "id": 6,
+      "marca":"Volkswagen",
+      "modelo":"Gol",
+      "ano":"2015",
+      "preço":"37900",
+      "km":"119000",
+      "cor":"Branco",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/gol.jpg?raw=true"
+    },
+    {
+      "id": 7,
+      "marca":"Fiat",
+      "modelo":"Argo",
+      "ano":"2017",
+      "preço":"53970",
+      "km":"55670",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/argo.jpg?raw=true"
+    },
+    {
+      "id": 8,
+      "marca":"Peugeot",
+      "modelo":"208",
+      "ano":"2017",
+      "preço":"62000",
+      "km":"64342",
+      "cor":"Laranja",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/208.jpg?raw=true"
+    },
+    {
+      "id": 9,
+      "marca":"Renault",
+      "modelo":"kwid",
+      "ano":"2019",
+      "preço":"52345",
+      "km":"81600",
+      "cor":"Verde",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/kwid.jpg?raw=true"
+    },
+    {
+      "id": 10,
+      "marca":"Volkswagen",
+      "modelo":"Polo",
+      "ano":"2022",
+      "preço":"104000",
+      "km":"11500",
+      "cor":"Roxo",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/polo.jpg?raw=true"
     }
-    
-    
   ],
   "SUV": [
     {
@@ -121,6 +241,86 @@
       "cor":"Branco",
       "img":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/blazer.jpg",
       "img2":"https://raw.githubusercontent.com/luissoaresx7/API-REST-concession-ria/main/assets/blazerCosta.jpg"
+    },
+    {
+      "id": 3,
+      "marca":"Jeep",
+      "modelo":"Compass",
+      "ano":"2016",
+      "preço":"97000",
+      "km":"82219",
+      "cor":"Cinza",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/compass.jpg?raw=true"
+    },
+    {
+      "id": 4,
+      "marca":"Hyundai",
+      "modelo":"Creta",
+      "ano":"2019",
+      "preço":"102450",
+      "km":"31500",
+      "cor":"Branco",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/creta.jpg?raw=true"
+    },
+    {
+      "id": 5,
+      "marca":"Volkswagen",
+      "modelo":"Nivus",
+      "ano":"2022",
+      "preço":"170000",
+      "km":"32000",
+      "cor":"Vermelho",
+      "img":"hhttps://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/nivuus.jpg?raw=true"
+    },
+    {
+      "id": 6,
+      "marca":"Toyota",
+      "modelo":"Corolla Cross",
+      "ano":"2022",
+      "preço":"145000",
+      "km":"30719",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/corolla%20cross.jpg?raw=true"
+    },
+    {
+      "id": 7,
+      "marca":"Cherry",
+      "modelo":"Tiggo 8",
+      "ano":"2018",
+      "preço":"104000",
+      "km":"11500",
+      "cor":"Branco",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/tiggo%208.jpg?raw=true"
+    },
+    {
+      "id": 8,
+      "marca":"Chevrolet",
+      "modelo":"Tracker",
+      "ano":"2022",
+      "preço":"141646",
+      "km":"11213",
+      "cor":"Azul",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/Tracker.jpg?raw=true"
+    },
+    {
+      "id": 9,
+      "marca":"Nissan",
+      "modelo":"Kicks",
+      "ano":"2014",
+      "preço":"94000",
+      "km":"45000",
+      "cor":"Cinza",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/kicks.jpg?raw=true"
+    },
+    {
+      "id": 10,
+      "marca":"Renault",
+      "modelo":"Duster",
+      "ano":"2013",
+      "preço":"50000",
+      "km":"90996",
+      "cor":"Verde",
+      "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/duster.jpg?raw=true"
     }
   ]
 }
