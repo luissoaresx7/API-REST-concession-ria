@@ -263,16 +263,6 @@
       "img":"https://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/creta.jpg?raw=true"
     },
     {
-      "id": 5,
-      "marca":"Volkswagen",
-      "modelo":"Nivus",
-      "ano":"2022",
-      "preço":"170000",
-      "km":"32000",
-      "cor":"Vermelho",
-      "img":"hhttps://github.com/luissoaresx7/API-REST-concession-ria/blob/main/assets/nivuus.jpg?raw=true"
-    },
-    {
       "id": 6,
       "marca":"Toyota",
       "modelo":"Corolla Cross",
